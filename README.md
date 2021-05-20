@@ -1,4 +1,4 @@
-# Olá mundo Git - Gihub
+# Olá mundo Git - Github
 Hello World repository for Git tutorial
 This is an example repository for the Git tutoial on https://www.w3schools.com
 
